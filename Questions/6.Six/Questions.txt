@@ -1,0 +1,37 @@
+i. WAP to overload following operators for class distance, which stores the distance in feet
+
+and inches.
+
+a) Binary + to
+
+-add two objects (D3=D1+D2)
+
+-Add an object to an integer, where the integer should be added to the
+
+inches value ( D2=4+D1)
+
+b) Unary -
+
+ii. Create a class to store an integer array. Overload insertion and extraction operator to
+
+input and display the array elements.
+
+iii. Create a class which a complex number. Add two objects and display the resultant object.
+
+Overload the ++ (post and pre) operator for the class.
+
+iv. Create a class which allocates the memory for a string through dynamic constructor.
+
+Overload the binary + to concatenate two strings and display it.
+
+v. WAP to add two objects of time class. Overload the operator ‘==’ to compare two objects
+
+and display whether they are equal or not. Overload the assignment operator.
+
+vi. WAP to add two objects of distance class. Overload the operator ‘>’ to compare two
+
+objects and return the object with larger time value and display it. Overload the ‘==’
+
+operator to compare and display whether two given objects contain same distance
+
+value

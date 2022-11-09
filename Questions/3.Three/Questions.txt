@@ -1,0 +1,22 @@
+i. WAP to find area of a circle, a rectangle and a triangle, using concept of function
+
+overloading.
+
+ii. WAP to find volume of a sphere, a cylinder and a cuboid, using function overloading.
+
+iii. WAP which displays a given character, n number of times, using a function. When the n
+
+value is not provided, it should print the given character 80 times. When both the
+
+character and n value is not provided, it should print ‘*’ character 80 times.
+
+[Write the above program in two ways:-
+-using function overloading.
+
+-using default arguments.]
+
+iv. WAP to find square and cube of a number using inline function.
+
+v. WAP to swap two integers using pass by reference.
+
+vi. WAP to increment the value of an argument given to function.
